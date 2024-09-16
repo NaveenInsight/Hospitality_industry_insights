@@ -1,6 +1,6 @@
 # Revenue Insights in the Hospitality Industry
 
-[Link to Interactive dashboard](https://app.powerbi.com/groups/me/reports/86852c21-b58a-4e95-9b82-92762d55954c/6e1453a2cc3a0ae38d0e?experience=power-bi)
+[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjcwZWQwZTUtM2E2Yy00NGExLWE0YzItZDc3NWE1YmQyZDZkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 Greetings, everyone!
